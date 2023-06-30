@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.section{
+	background-image:url("images/TEC027.png");	
+	background-size:cover; 
+}
+.bg-img2{
+	background-image:url("images/TEC028.png");
+}
+	
